@@ -10,6 +10,7 @@ fi
 ####### ALIASES #######
 alias l='ls -larths'
 alias c='clear'
+alias k='kill -9'
 ########################
 
 
