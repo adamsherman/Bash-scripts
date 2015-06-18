@@ -10,7 +10,9 @@ fi
 ####### ALIASES #######
 alias l='ls -larths'
 alias c='clear'
+<<<<<<< HEAD
 alias pom='git push origin master'
+alias k='kill -9'
 ########################
 
 
