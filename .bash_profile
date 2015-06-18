@@ -10,9 +10,9 @@ fi
 ####### ALIASES #######
 alias l='ls -larths'
 alias c='clear'
-<<<<<<< HEAD
 alias pom='git push origin master'
 alias k='kill -9'
+alias gitreset='git fetch --all;  git reset --hard origin/master'
 ########################
 
 
