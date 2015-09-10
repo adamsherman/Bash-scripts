@@ -8,8 +8,6 @@
  
  
  HOSTNAME=`echo $@ | sed s/.*@//`
- #echo "Invoking $@"
- #echo "Hostname is $HOSTNAME"
  
  set_bg () {
      osascript -e "tell application \"Terminal\" to set background color of window 1 to $1"
