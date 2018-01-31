@@ -16,11 +16,9 @@ alias gitreset='git fetch --all;  git reset --hard origin/master'
 ########################
 
 
-
 ######## PATH #########
 export PATH=~/bin:$PATH
 #######################
-
 
 
 ####### DISPLAY #######
