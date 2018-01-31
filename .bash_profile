@@ -26,3 +26,8 @@ export PATH=~/bin:$PATH
 ####### DISPLAY #######
 export PS1='\[\e[0;32m\]\u\[\e[m\] \[\e[1;33m\]\w\[\e[m\] \[\e[1;32m\]\$\[\e[m\] \[\e[1;37m\]'
 ########################
+
+
+####### MISC ##########
+export GREP_OPTIONS='--directories=recurse'
+#######################
